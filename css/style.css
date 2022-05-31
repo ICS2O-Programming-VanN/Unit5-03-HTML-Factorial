@@ -1,0 +1,27 @@
+/* Color and text alignment */
+
+body {
+	background-color: rgb(111, 236, 236);
+  text-align: center;
+}
+
+p {
+	background-color: #fbf8ac;
+	font-weight: bold;
+}
+
+#output {
+  font-weight: bold;
+  background-color: #fbf8ac;
+}
+
+h2 {
+  background-color: #ff9494;
+  padding: 20px;
+}
+
+h1 {
+	background-color: #f95d5d;
+  color: rgb(255, 223, 179);
+  padding: 30px;
+}
